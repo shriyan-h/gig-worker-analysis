@@ -5,8 +5,7 @@ A machine learning web app that predicts estimated net income for gig economy wo
 ---
 
 ## 🚀 Live Demo
-
-> _Deploy link goes here after Streamlit Cloud deployment_
+https://gig-worker-analysis-gl6memnnhnxaf7rjitqdsw.streamlit.app/
 
 ---
 
